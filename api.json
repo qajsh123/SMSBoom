@@ -7,7 +7,7 @@
             "Content-Type": "application/json;charset=utf-8",
         },
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -19,7 +19,7 @@
             "Cy-Token": "token 9876032166"
         },
         "data": {
-            "phone_num": "[phone]",
+            "phone_num": "18259109215",
             "area_code": "86"
         }
     },
@@ -46,7 +46,7 @@
         },
         "data": {
             "dial_code": "0086",
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -85,7 +85,7 @@
         "url": "https://pg.eeagd.edu.cn/ks/public/kszc/zcyzm.jsmeb",
         "method": "POST",
         "header": "",
-        "data": "[phone]"
+        "data": "18259109215"
     },
     {
         "desc": "广东教育翔云",
@@ -101,7 +101,7 @@
         "header": "",
         "data": {
             "countryCode": "CN",
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -110,7 +110,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -119,7 +119,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "tel": "[phone]",
+            "tel": "18259109215",
             "forgetPwd": ""
         }
     },
@@ -129,7 +129,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "tel": "[phone]"
+            "tel": "18259109215"
         }
     },
     {
@@ -149,7 +149,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "captcha": ""
         }
     },
@@ -159,7 +159,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "v": "yes"
         }
     },
@@ -169,7 +169,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -178,7 +178,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -187,7 +187,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "type": "register",
             "voice": "0"
         }
@@ -198,7 +198,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "account": "[phone]"
+            "account": "18259109215"
         }
     },
     {
@@ -208,7 +208,7 @@
         "header": "",
         "data": {
             "pcode": "+86",
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -217,7 +217,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "email": "null",
             "verfy_method": "mobile"
         }
@@ -228,7 +228,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -237,7 +237,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "verifytype": "1"
         }
     },
@@ -247,7 +247,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "mobile_pre": "86"
         }
     },
@@ -257,7 +257,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -266,7 +266,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -275,7 +275,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "personcall": "[phone]"
+            "personcall": "18259109215"
         }
     },
     {
@@ -284,7 +284,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -293,7 +293,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phoneNumber": "[phone]",
+            "phoneNumber": "18259109215",
             "sendType": "0"
         }
     },
@@ -303,7 +303,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "event": "register"
         }
     },
@@ -313,7 +313,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "type": "1"
         }
     },
@@ -323,7 +323,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "telphone": "[phone]"
+            "telphone": "18259109215"
         }
     },
     {
@@ -332,7 +332,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "aae005": "[phone]",
+            "aae005": "18259109215",
             "aac003": "刘萌萌",
             "aac002": "210212198506035924",
             "notkeyflag": "1"
@@ -345,7 +345,7 @@
         "header": "",
         "data": {
             "action": "send",
-            "txtMember_Name": "[phone]"
+            "txtMember_Name": "18259109215"
         }
     },
     {
@@ -354,7 +354,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -364,7 +364,7 @@
         "header": "",
         "data": {
             "cmd": "GetTelVerifyCode",
-            "Tel": "[phone]"
+            "Tel": "18259109215"
         }
     },
     {
@@ -374,7 +374,7 @@
         "header": "",
         "data": {
             "tips": "1",
-            "shouji": "[phone]"
+            "shouji": "18259109215"
         }
     },
     {
@@ -383,7 +383,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -392,7 +392,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -401,7 +401,7 @@
         "method": "GET",
         "header": "",
         "data": {
-            "tel": "[phone]"
+            "tel": "18259109215"
         }
     },
     {
@@ -445,7 +445,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "sendType": "4"
         }
     },
@@ -462,7 +462,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone_number": "[phone]"
+            "phone_number": "18259109215"
         }
     },
     {
@@ -471,7 +471,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "username": "[phone]",
+            "username": "18259109215",
             "type": "regUser",
             "mobile": "PC"
         }
@@ -483,7 +483,7 @@
         "header": "",
         "data": {
             "temp": "1",
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -492,7 +492,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -508,7 +508,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -524,7 +524,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "sendType": "4"
         }
     },
@@ -534,7 +534,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -543,7 +543,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -552,7 +552,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]"
+            "phone": "18259109215"
         }
     },
     {
@@ -561,7 +561,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "mobile": "[phone]"
+            "mobile": "18259109215"
         }
     },
     {
@@ -572,7 +572,7 @@
             "referer": "https://www.yuque.com/register"
         },
         "data": {
-            "target": "[phone]",
+            "target": "18259109215",
             "action": "register",
             "channel": "sms"
         }
@@ -607,7 +607,7 @@
             "OSVersion": "11",
             "creditkey": "",
             "hl": "zh-CN",
-            "mobile": "[phone]",
+            "mobile": "18259109215",
             "register": "0"
         }
     },
@@ -623,7 +623,7 @@
         "url": "http://www.yhis999.cn/yunhis/register.do?act=lable&type=yzm",
         "method": "POST",
         "header": "",
-        "data": "{'lxdh': [phone]}"
+        "data": "{'lxdh': 18259109215}"
     },
     {
         "desc": "秘塔写作",
@@ -631,7 +631,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "86-[phone]"
+            "phone": "86-18259109215"
         }
     },
     {
@@ -668,7 +668,7 @@
         "method": "POST",
         "header": "",
         "data": {
-            "phone": "[phone]",
+            "phone": "18259109215",
             "product": "biyingdianhua_ios",
             "key": "mwoe093fwef"
         }
@@ -681,7 +681,7 @@
         "data": {
             "appType": "1",
             "app_id": "5555",
-            "mobileNo": "[phone]",
+            "mobileNo": "18259109215",
             "sig": "16cd52ea74f5ea4a6c2fe80b9a04f8b5",
             "src": "1",
             "v": "4.9.2",
@@ -707,7 +707,7 @@
         "url": "https://yae920.com/login/sendSMS?mobile=[phone]&smsType=02&timestamp=[timestamp]",
         "method": "POST",
         "header": "",
-        "data": "mobile=[phone]&smsType=02&timestamp=[timestamp]"
+        "data": "mobile=18259109215&smsType=02&timestamp=[timestamp]"
     },
     {
         "desc": "某数图表web(存疑)",
@@ -783,7 +783,7 @@
             "X-Requested-With": "XMLHttpRequest"
         },
         "data": {
-            "userMobile": "[phone]"
+            "userMobile": "18259109215"
         }
     },
     {
@@ -798,7 +798,7 @@
             "X-Requested-With": "XMLHttpRequest"
         },
         "data": {
-            "to": "[phone]",
+            "to": "18259109215",
             "sms_type": "sms_registration"
         }
     }
